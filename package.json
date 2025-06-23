@@ -10,13 +10,13 @@
     "postbuild": "node ./node_modules/@netlify/next/dist/build.js"
   },
   "dependencies": {
-    "@netlify/next": "^1.4.9",
     "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@netlify/next": "^1.4.9",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
